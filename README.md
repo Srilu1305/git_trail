@@ -1,1 +1,2 @@
-# git_trail
+hey this is my index page
+today i am learning about git session
